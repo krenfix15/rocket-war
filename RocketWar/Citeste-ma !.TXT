@@ -6,9 +6,9 @@ all he/she needs to know. The comments should usually include at least:
 
 PROJECT TITLE: Coding it's Fun
 PURPOSE OF PROJECT: Creating a game
-VERSION or DATE: Februarie 2017
+VERSION or DATE: Mai 2018
 HOW TO START THIS PROJECT: Click pe run :D
-AUTHORS: Pascal Marian & Floristean Gabriel
+AUTHORS: Pascal Marian
 USER INSTRUCTIONS: Shoot : MouseClick/Spacebar
 			   Move : W/A/S/D
 				  ARROWS
