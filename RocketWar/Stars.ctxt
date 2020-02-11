@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stars
+comment0.text=\r\n\ Stelele\ care\ se\ genereaza\ in\ timpul\ jocului.\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n
+comment1.params=size\ v
+comment1.target=Stars(int,\ int)
+comment1.text=\r\n\ \r\n\ Stelele\ isi\ seteaza\ viteza\ si\ marimea\ dupa\ variabile.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Miscarea\ Stelelor.\r\n
+comment3.params=
+comment3.target=void\ moveBackground()
+comment3.text=\r\n\ Stelele\ se\ misca\ in\ directia\ opusa\ rachetei.\r\n
+comment4.params=
+comment4.target=void\ goThroughEdge()
+comment4.text=\r\n\ Daca\ stelele\ dispar\ de\ pe\ mapa,apar\ in\ partea\ opusa.\r\n
+numComments=5

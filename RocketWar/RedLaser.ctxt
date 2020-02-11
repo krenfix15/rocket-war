@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RedLaser
+comment0.text=\r\n\ Laserele\ inamicilor.\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n
+comment1.params=r
+comment1.target=RedLaser(int)
+comment1.text=\r\n\ Constructor\:\r\n\ Laserul\ se\ roteste\ .\r\n\ Laserul\ isi\ schimba\ culoarea.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Laserul\ se\ misca\ in\ directia\ in\ care\ puncteaza.\r\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\r\n\ Laserul\ se\ sterge\ automat\ daca\ este\ inafara\ mapei.\r\n
+numComments=4

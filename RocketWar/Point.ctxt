@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ Punctele\ ce\ se\ genereaza\ aleatoriu\ pe\ mapa\ pentru\ a\ fi\ culese.\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Nu\ au\ nevoie\ de\ cod.\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Label3
+comment0.text=\r\n\ Tabela\ de\ scor\ pentru\ Total.\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n
+comment1.params=
+comment1.target=Label3()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ 10\ *\ Puncte+Nr.\ Nave\ Ucise.\r\n
+comment3.params=
+comment3.target=void\ score3()
+numComments=4

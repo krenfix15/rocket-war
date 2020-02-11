@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EnemyShip
+comment0.text=\r\n\ Navele\ inamice.\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n
+comment1.params=r
+comment1.target=EnemyShip(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Verifica\ miscarile\ aleatorii\ ale\ navelor\ inamice,ataca,explodeaza.\r\n
+comment3.params=
+comment3.target=void\ flyRandom()
+comment3.text=\r\n\ Inamicii\ se\ rotesc\ aleatoriu.\r\n\ Apoi\ se\ misca.\r\n
+comment4.params=
+comment4.target=void\ attack()
+comment4.text=\r\n\ Inamicii\ trag\ cu\ lasere.\r\n
+comment5.params=a
+comment5.target=void\ shoot(int)
+comment5.text=\r\n\ Sunt\ adaugate\ cate\ 2\ lasere.\r\n
+comment6.params=
+comment6.target=void\ explode()
+comment6.text=\r\n\ Inamicii\ explodeaza\ daca\ nu\ mai\ au\ puncte\ de\ viata.\r\n
+comment7.params=
+comment7.target=void\ remove()
+comment7.text=\r\n\ Inamicii\ se\ sterg\ automat\ daca\ au\ iesit\ inafara\ mapei.\r\n
+comment8.params=
+comment8.target=boolean\ Laser()
+comment8.text=\r\n\ Verifica\ daca\ laserul\ este\ pe\ inamic.\r\n
+numComments=9

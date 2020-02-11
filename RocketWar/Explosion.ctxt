@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ Explozie.\ \r\n\ Va\ omori\ si\ obiectele\ din\ apropiere.\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n
+comment1.params=
+comment1.target=Explosion()
+comment2.params=
+comment2.target=void\ initialiseImages()
+comment2.text=\ \r\n\ Creaza\ imaginile\ exploziei.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Explodeaza\ \!\!\r\n
+comment4.params=
+comment4.target=void\ lostGame()
+comment4.text=\r\n\ Termina\ jocul\ daca\ racheta\ dispare.\r\n
+numComments=5

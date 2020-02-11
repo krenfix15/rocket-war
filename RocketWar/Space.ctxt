@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n\r\n\ https\://www.youtube.com/channel/UCHLduiuV8Sz5KlLtnjmaBCA\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Construieste\ obiectele\ clasei\ Space.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Pregateste\ lumea\ \:\r\n\ -\ adauga\ racheta\r\n\ -\ adauga\ stele\r\n\ -\ adauga\ tabela\ scor\r\n
+comment3.params=
+comment3.target=void\ Stars()
+comment3.text=\r\n\ Adauga\ steaua\ in\ lumea\ intr-o\ anumita\ pozitie\ cu\ o\ anumita\ viteza.\r\n
+comment4.params=x\ y
+comment4.target=boolean\ StarAtLocation(int,\ int)
+comment4.text=\r\n\ Se\ verifica\ daca\ exista\ o\ stea\ intr-o\ anumita\ locatie.\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Creeaza\ un\ punct\ pe\ mapa\ la\ un\ interval\ de\ timp.\r\n
+numComments=6

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Coding it's Fun
+PURPOSE OF PROJECT: Creating a game
+VERSION or DATE: Februarie 2017
+HOW TO START THIS PROJECT: Click pe run :D
+AUTHORS: Pascal Marian & Floristean Gabriel
+USER INSTRUCTIONS: Shoot : MouseClick/Spacebar
+			   Move : W/A/S/D
+				  ARROWS
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Game introduction : 
+
+	You have to control a spaceship throughout the dangerous space to kill enemies but to continue the adventure 
+	you need to collect fuel which is represented as an yellow drop. 
+	By killing enemies and collecting fuel,you get a total of points. 
+	Challenge friends to beat your highscore !
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Label2
+comment0.text=\r\n\ Tabela\ de\ scor\ pentru\ Nave\ ucise.\r\n\ \r\n\ @author\ Pascal\ Marian\r\n\ @version\ 2017\ Februarie\r\n
+comment1.params=
+comment1.target=Label2()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Numara\ cate\ nave\ inamice\ au\ fost\ ucise.\r\n
+comment3.params=
+comment3.target=void\ score2()
+numComments=4
