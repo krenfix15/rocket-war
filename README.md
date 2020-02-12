@@ -16,3 +16,10 @@ USER INSTRUCTIONS: Shoot : MouseClick/Spacebar
 			              Move : W/A/S/D/ARROWS
 
 -----------------------------------------------------------------------------------------------------------------------
+
+# What I Learned
+
+* How an engine for games works.
+* Java.
+* Collision detection and handling.
+* Computer graphics, data structures and algorithms.
