@@ -1,4 +1,4 @@
-# RocketWar
+# rocket-war
 
 A game made using the "Greenfoot" Software, with Java.
 
