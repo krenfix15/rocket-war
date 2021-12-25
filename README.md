@@ -2,7 +2,10 @@
 
 A game made using the "Greenfoot" engine (Java).
 
-You need Greenfoot to open this project.
+# To open the application:
+1. Install Greenfoot
+2. Import the project
+
 -----------------------------------------------------------------------------------------------------------------------
 
 Game introduction : 
