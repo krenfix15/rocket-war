@@ -1,6 +1,6 @@
 # rocket-war
 
-A game made using the "Greenfoot" engine using Java.
+A game made using the "Greenfoot" engine (Java).
 
 You need Greenfoot to open this project.
 -----------------------------------------------------------------------------------------------------------------------
