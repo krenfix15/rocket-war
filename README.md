@@ -1,6 +1,6 @@
 # rocket-war
 
-A game made using the "Greenfoot" engine, with Java.
+A game made using the "Greenfoot" engine using Java.
 
 You need Greenfoot to open this project.
 -----------------------------------------------------------------------------------------------------------------------
@@ -12,14 +12,15 @@ Game introduction :
 	By killing enemies and collecting fuel,you get a total of points. 
 	Challenge friends to beat your highscore !
   
-USER INSTRUCTIONS: Shoot : MouseClick/Spacebar
-			              Move : W/A/S/D/ARROWS
+USER INSTRUCTIONS: 
+Shoot: MouseClick/Spacebar
+Move: W/A/S/D/ARROWS
 
 -----------------------------------------------------------------------------------------------------------------------
 
 # What I Learned
 
-* How an engine for games works.
-* Java.
-* Collision detection and handling.
-* Computer graphics, data structures and algorithms.
+* How an engine for games works
+* Java
+* Collision detection and handling
+* Computer graphics, data structures and algorithms
